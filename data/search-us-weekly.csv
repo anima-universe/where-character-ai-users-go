@@ -1,5 +1,4 @@
 week_ending,phrase,searches_containing_phrase,exact_searches
-2026-05-09,chai ai,1844,1494
 2026-05-16,chai ai,1735,1462
 2026-05-23,chai ai,1777,1461
 2026-05-30,chai ai,1912,1631
@@ -24,7 +23,7 @@ week_ending,phrase,searches_containing_phrase,exact_searches
 2026-10-17,chai ai,1367,1138
 2026-10-24,chai ai,1300,1035
 2026-10-31,chai ai,1157,933
-2026-05-09,character ai,29229,26672
+2026-11-07,chai ai,1270,1078
 2026-05-16,character ai,27469,24880
 2026-05-23,character ai,28353,25899
 2026-05-30,character ai,28620,26228
@@ -49,7 +48,7 @@ week_ending,phrase,searches_containing_phrase,exact_searches
 2026-10-17,character ai,26112,23523
 2026-10-24,character ai,23006,21393
 2026-10-31,character ai,24371,22230
-2026-05-09,character ai alternative,6,6
+2026-11-07,character ai,23944,21898
 2026-05-16,character ai alternative,12,4
 2026-05-23,character ai alternative,82,10
 2026-05-30,character ai alternative,80,12
@@ -74,7 +73,7 @@ week_ending,phrase,searches_containing_phrase,exact_searches
 2026-10-17,character ai alternative,69,0
 2026-10-24,character ai alternative,10,0
 2026-10-31,character ai alternative,20,0
-2026-05-09,character ai alternatives,138,138
+2026-11-07,character ai alternative,60,0
 2026-05-16,character ai alternatives,154,130
 2026-05-23,character ai alternatives,159,149
 2026-05-30,character ai alternatives,136,136
@@ -99,10 +98,11 @@ week_ending,phrase,searches_containing_phrase,exact_searches
 2026-10-17,character ai alternatives,83,83
 2026-10-24,character ai alternatives,94,94
 2026-10-31,character ai alternatives,107,107
+2026-11-07,character ai alternatives,98,92
 2026-10-17,character ai bankruptcy,318,298
 2026-10-24,character ai bankruptcy,63,63
 2026-10-31,character ai bankruptcy,34,34
-2026-05-09,emochi,3979,2484
+2026-11-07,character ai bankruptcy,35,35
 2026-05-16,emochi,3801,2345
 2026-05-23,emochi,4054,2768
 2026-05-30,emochi,4617,3094
@@ -127,10 +127,11 @@ week_ending,phrase,searches_containing_phrase,exact_searches
 2026-10-17,emochi,8414,5233
 2026-10-24,emochi,7031,4621
 2026-10-31,emochi,7366,4773
+2026-11-07,emochi,8221,5387
 2026-10-17,is character ai shutting down,50,50
 2026-10-24,is character ai shutting down,24,24
 2026-10-31,is character ai shutting down,24,24
-2026-05-09,janitor ai,25477,24816
+2026-11-07,is character ai shutting down,25,25
 2026-05-16,janitor ai,26125,25473
 2026-05-23,janitor ai,26454,25803
 2026-05-30,janitor ai,27592,26875
@@ -155,7 +156,7 @@ week_ending,phrase,searches_containing_phrase,exact_searches
 2026-10-17,janitor ai,27632,27106
 2026-10-24,janitor ai,28141,27554
 2026-10-31,janitor ai,27181,26709
-2026-05-09,kindroid,1319,784
+2026-11-07,janitor ai,31780,30751
 2026-05-16,kindroid,1252,754
 2026-05-23,kindroid,1262,747
 2026-05-30,kindroid,1186,651
@@ -180,7 +181,7 @@ week_ending,phrase,searches_containing_phrase,exact_searches
 2026-10-17,kindroid,1895,1067
 2026-10-24,kindroid,2045,1139
 2026-10-31,kindroid,2076,1151
-2026-05-09,nomi ai,320,243
+2026-11-07,kindroid,2213,1302
 2026-05-16,nomi ai,296,241
 2026-05-23,nomi ai,355,260
 2026-05-30,nomi ai,324,249
@@ -205,7 +206,7 @@ week_ending,phrase,searches_containing_phrase,exact_searches
 2026-10-17,nomi ai,517,304
 2026-10-24,nomi ai,475,271
 2026-10-31,nomi ai,375,271
-2026-05-09,perchance ai chat,2530,2297
+2026-11-07,nomi ai,494,318
 2026-05-16,perchance ai chat,2754,2539
 2026-05-23,perchance ai chat,2801,2539
 2026-05-30,perchance ai chat,3424,2991
@@ -230,7 +231,7 @@ week_ending,phrase,searches_containing_phrase,exact_searches
 2026-10-17,perchance ai chat,2678,2419
 2026-10-24,perchance ai chat,2570,2323
 2026-10-31,perchance ai chat,2412,2195
-2026-05-09,polybuzz,98923,70754
+2026-11-07,perchance ai chat,2754,2532
 2026-05-16,polybuzz,100356,71283
 2026-05-23,polybuzz,107761,76034
 2026-05-30,polybuzz,119323,60677
@@ -255,7 +256,7 @@ week_ending,phrase,searches_containing_phrase,exact_searches
 2026-10-17,polybuzz,97857,64461
 2026-10-24,polybuzz,88258,60614
 2026-10-31,polybuzz,82439,57705
-2026-05-09,replika,748,614
+2026-11-07,polybuzz,89961,64150
 2026-05-16,replika,898,648
 2026-05-23,replika,790,467
 2026-05-30,replika,778,534
@@ -280,7 +281,7 @@ week_ending,phrase,searches_containing_phrase,exact_searches
 2026-10-17,replika,551,403
 2026-10-24,replika,420,325
 2026-10-31,replika,407,309
-2026-05-09,sillytavern,270,211
+2026-11-07,replika,504,368
 2026-05-16,sillytavern,285,237
 2026-05-23,sillytavern,309,234
 2026-05-30,sillytavern,352,267
@@ -305,7 +306,7 @@ week_ending,phrase,searches_containing_phrase,exact_searches
 2026-10-17,sillytavern,395,312
 2026-10-24,sillytavern,353,267
 2026-10-31,sillytavern,347,261
-2026-05-09,talkie ai,8735,7460
+2026-11-07,sillytavern,398,302
 2026-05-16,talkie ai,8805,7515
 2026-05-23,talkie ai,9485,8017
 2026-05-30,talkie ai,10458,8757
@@ -330,7 +331,7 @@ week_ending,phrase,searches_containing_phrase,exact_searches
 2026-10-17,talkie ai,9684,8201
 2026-10-24,talkie ai,8846,7548
 2026-10-31,talkie ai,9281,8064
-2026-05-09,zeta ai,794,672
+2026-11-07,talkie ai,9885,8636
 2026-05-16,zeta ai,979,826
 2026-05-23,zeta ai,1172,1013
 2026-05-30,zeta ai,1374,1272
@@ -355,3 +356,4 @@ week_ending,phrase,searches_containing_phrase,exact_searches
 2026-10-17,zeta ai,8392,7793
 2026-10-24,zeta ai,7990,7310
 2026-10-31,zeta ai,8467,7653
+2026-11-07,zeta ai,10637,9647
